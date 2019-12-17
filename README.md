@@ -18,3 +18,5 @@ py23.convert("python2code.py")
 import py23
 py23.convert("python2code.py","python3code.py") ## it will save the python3 equivalent code into python3code.py file.
 ```
+
+##### Note: This work can be used freely after providing citation and/or deserved credits to this work. Please use it at your own risk !!!
